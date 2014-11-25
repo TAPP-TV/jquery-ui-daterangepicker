@@ -16,3 +16,7 @@ Desktop.ini
 .project
 .buildpath
 .idea/
+
+# bower stuff
+bower_components/
+commit_images
