@@ -1,0 +1,30 @@
+{
+  "name": "jquery-ui-daterangepicker",
+  "version": "0.3.3",
+  "homepage": "https://github.com/TAPP-TV/jquery-ui-daterangepicker",
+  "authors": [
+    "Tamble",
+    "Inc."
+  ],
+  "description": "A jQuery UI widget similar to the date range picker used in Google Analytics",
+  "main": "jquery.comiseo.daterangepicker.js",
+  "keywords": [
+    "jquery",
+    "ui",
+    "datepicker",
+    "range"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "~1.11.2",
+    "momentjs": "2.3.1",
+    "jquery": "1.10.1"
+  }
+}
